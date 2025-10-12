@@ -1,0 +1,15 @@
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="risk_safe">#2E7D32</color>        <!-- Green -->
+    <color name="risk_caution">#FB8C00</color>     <!-- Orange -->
+    <color name="risk_moderate">#1976D2</color>    <!-- Blue -->
+    <color name="risk_high">#E53935</color>        <!-- Red -->
+    <color name="risk_critical">#8E24AA</color>    <!-- Purple -->
+
+</resources>
