@@ -1,0 +1,25 @@
+# Android specific
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Android Studio captures
+captures/
+
+# IntelliJ
+*.ipr
+*.iws
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Misc
+.DS_Store
+.env
