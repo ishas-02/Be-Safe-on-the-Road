@@ -21,7 +21,6 @@ This project is built using **Kotlin** and follows standard Android development 
 - 🔧 Modular Android architecture for future expansion
 - 📊 Designed for real-time interaction
 
-> *(Update this list as you add more features.)*
 
 ---
 
